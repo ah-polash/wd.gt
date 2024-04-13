@@ -1,11 +1,11 @@
 {
     "name": "Local Weather",
-    "description": "This is powered by a weather station in my backyard.",
+    "description": "https://raw.githubusercontent.com/ah-polash/wd.gt/main/another.json",
     "version": 1,
     "data": {
       "content_url": "https://example.com",
       "weather_city": "Seattle",
-      "weather_temp": "65°",
+      "weather_temp": "description.weather_temp",
       "weather_icon": "https://.../sunny.png"
     },
     "layouts": {
