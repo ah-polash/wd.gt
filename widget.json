@@ -1,11 +1,12 @@
 {
     "name": "Local Weather",
-    "external": "https://raw.githubusercontent.com/ah-polash/wd.gt/main/another.json",
+    "...": "https://raw.githubusercontent.com/ah-polash/wd.gt/main/another.json",
+    "description":"desc",
     "version": 1,
     "data": {
       "content_url": "https://example.com",
       "weather_city": "Seattle",
-      "weather_temp": "description",
+      "weather_temp": "weather_temp",
       "weather_icon": "https://.../sunny.png"
     },
     "layouts": {
