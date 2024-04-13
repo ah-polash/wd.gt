@@ -1,7 +1,7 @@
 {
     "name": "Local Weather",
     "...": "https://raw.githubusercontent.com/ah-polash/wd.gt/main/another.json",
-    "description":desc,
+    "description":"desc",
     "version": 1,
     "data": {
       "content_url": "https://example.com",
